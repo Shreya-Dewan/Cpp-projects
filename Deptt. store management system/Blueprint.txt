@@ -1,0 +1,29 @@
+Department Store Management System
+
+Inventory
+1. Item, Batch no, MRP, Qty
+
+
+Check out counter
+1. Bill Calculator-
+add item
+delete item
+display cart
+cancel
+
+Sr. No.	Item	MRP	Qty	Net Amount
+
+2. Generate bill-
+Invoice ID
+Display - with total amount
+Apply Coupon - applies discount and gives total amt to be paid, proceed to payment
+Payment
+Print receipt
+
+
+Concepts to be used-
+Polymorphism
+Inheritence
+Virtual functions
+Pointers
+String functions
